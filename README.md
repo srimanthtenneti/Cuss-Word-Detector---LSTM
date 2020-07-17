@@ -5,6 +5,13 @@ This code implements a cuss word detector using some samples and an LSTM array. 
 
 These words are rated in between medium - strong by the BBC.
 
-## LSTM Architecture
+## LSTM Architecture Used
 
 ![Screenshot](/imgs/speech_tagger.png)
+
+## LSTM Dimensions
+
+EMBEDDING_DIM = 6
+HIDDEN_DIM = 6
+Learning Rate = 0.1
+
